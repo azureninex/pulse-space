@@ -1,2 +1,5 @@
 # pulse-space
-Lightweight Erlang utilities and helpers (pulse-space)
+
+Lightweight `Erlang` utilities maintained by @azureninex.
+
+- Focus: Crafting resilient APIs and event-driven workers that sleep well at night.
